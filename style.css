@@ -1,0 +1,26 @@
+/* https://box-model-visualizer.netlify.app/ */
+body {
+	background-image: linear-gradient(to bottom, skyblue, lightgreen);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	/* height: auto;
+	width: auto;
+	margin-top: 25%;
+	margin-right: auto;
+	margin-bottom: 25%;
+	margin-left: auto; */
+}
+
+h1 {
+	
+}
+
+p {
+	
+}
+
+ul {
+	
+}
