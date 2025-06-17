@@ -1,6 +1,6 @@
 html {
-	width: 100vw;
-	height: 100vh;
+	width: auto;
+	height: auto;
 }
 
 body {
@@ -16,9 +16,9 @@ body {
 
 	/* Margin Properties */
 	margin-top: auto;
-	margin-right: auto;
+	margin-right: 25%;
 	margin-bottom: auto;
-	margin-left: auto;
+	margin-left: 25%;
 	
 	/* Border Properties */
 	border-top-width: 0;
@@ -39,8 +39,8 @@ body {
 	left: 0;
 	
 	/* Size Properties */
-	width: fit-content;
-	height: fit-content;
+	width: auto;
+	height: auto;
 }
 
 h1 {
